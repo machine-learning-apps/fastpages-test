@@ -17,7 +17,7 @@
 
 ### `fastpages` provides the  following features:
 
-- Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from [Jupyter Notebooks](https://jupyter.org/); Notebook posts support features such as:
+- Create posts containing code,   outputs of code (which can be interactive), formatted text, etc directly from [Jupyter Notebooks](https://jupyter.org/); Notebook posts support features such as:
     - Interactive visualizations made with [Altair](https://altair-viz.github.io/) remain interactive.
     - Hide or show cell input and output.
     - Collapsable code cells that are either open or closed by default.
